@@ -7,8 +7,9 @@ answer = input("hoe is het weer vandaag?")
 
 if answer == "zonnig":
     print("ah, wat lekker zeg!")
-if answer == "regen"
+if answer == "regen":
     print("jammer weer dit")
-if answer == "bewolkt"
+if answer == "bewolkt":
     print("oh dat is wel okay")
-else print("okay")
+else: 
+    print("okay")
